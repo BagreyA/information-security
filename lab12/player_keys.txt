@@ -1,0 +1,6 @@
+Player1=682
+Player2=788
+Player3=599
+Player4=562
+Player5=857
+Player6=562
